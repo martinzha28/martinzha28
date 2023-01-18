@@ -1,4 +1,4 @@
-Hi, my name is Martin Zhao. I am a 1st year Computer Science Student at the University of Waterloo!
+Hi, my name is Martin Zhao. I am a 2nd year Computer Science Student at the University of Waterloo!
 
 Currently, I am focusing on learning Python and MySQL. Other languages I have utilized include Java, C, C++, Racket, LaTeX, and Bash.
 
