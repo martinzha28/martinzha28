@@ -4,7 +4,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center">
-  <a align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student.;Full+Stack+Developer.;Active+Learner.;International+Bridge+Player." alt="Typing SVG" /></a>
+  <a align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student.;Full+Stack+Developer.;Active+Learner." alt="Typing SVG" /></a>
   </a>
 </p>
 
@@ -19,7 +19,7 @@ I am currently fascinated by the power of technology and how it can shape the wo
 
 On the front-end, I excel at utilizing modern web technologies such as React and Bootstrap to craft visually appealing and responsive user interfaces. I have a keen eye for detail and believe that a well-designed interface is crucial for an exceptional user experience. I am also proficient in several technologies like Node.js and Express. I have hands-on experience in working with databases, building RESTful APIs, and implementing server-side logic to ensure efficient data management and smooth interactions with the front-end.
 
-I also have plenty of experience with cloud computing services like Microsoft Azure. In my recentl workplace, I have expertise in using their databases, OCR, and Machine Vision tools to create a complete application.
+I also have plenty of experience with cloud computing services like Microsoft Azure. At my recent workplace, I have expertise in using their SQL storage, data lakes, OCR, Machine Vision, and API tools to create a complete application.
 
 Apart from my technical skills, I am a highly motivated individual who is always eager to learn and adapt to new technologies and industry trends. I am constantly seeking ways to enhance my skills through online courses, workshops, and participation in developer communities. Collaboration and continuous learning are at the core of my professional philosophy. I enjoy working with cross-functional teams and believe that effective communication and teamwork are essential for successful project outcomes.
 
@@ -37,6 +37,7 @@ Having used many coding languages and softwares, I am accepting of any challenge
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 - **Development Tools**:
 
@@ -50,11 +51,13 @@ Having used many coding languages and softwares, I am accepting of any challenge
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-- **Other Tools and Languages**:
+- **Other Tools**:
 
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
   
 
