@@ -13,7 +13,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width ="60"> About Me </h2>
 
-I'm a 3A Computer Science Student studying at the University of Waterloo with a Software Engineering Specialization!
+I'm a 3A Computer Science Student studying at the University of Waterloo!
 
 I am currently fascinated by the power of technology and how it can shape the world around us. As a Full Stack developer, I strive to create seamless and user-friendly experiences by bridging the gap between design and functionality.
 
