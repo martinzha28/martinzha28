@@ -9,24 +9,34 @@
 </p>
 
 
-
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width ="60"> About Me </h2>
 
-I'm a 3B Computer Science Student studying at the University of Waterloo!
+I'm a 3B Computer Science Student studying at the University of Waterloo! 
 
-I've recently worked at Marsh McLennan, where I used the MERN stack and worked extensively with new and excited frameworks. 
+I've most recently worked at Marsh McLennan, where I extensively used the MERN stack and worked with new and exciting frameworks. I've also worked at WSIB as a full-stack developer and Genesys as a QA intern.
 
-Currently I'm cooking a side project :hand_over_mouth: to be released when ready...
+I love exploring automation methods and understanding the end-to-end software development process. I hope to work with large code bases, and slowly uncover how components interact with eact other. 
 
-I'm happy to connect with anyone!
+Currently I'm working a web application :hand_over_mouth: to be released when ready... In the meantime I'm experimenting with AWS.
+
+I'm happy to connect with anyone! Feel free to reach out!
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------->
+<br>
+<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5bXIwaWt5enZxYWpyazI1OGQ2NTB0d2c4bmk3eGdzbjYyczM4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8Zdh9VJe3piTQ5EPj/giphy.gif" width ="40"> Connect with Me </h2>
+
+<a href="mailto:m249zhao@uwaterloo.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/martin-zha28/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:martinzha28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages, Frameworks, and Tools </h2>
 
-- **Languages**:
+**Languages**:
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -38,8 +48,7 @@ I'm happy to connect with anyone!
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Development Tools**:
-
+**Frameworks Tools**:
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -56,29 +65,23 @@ I'm happy to connect with anyone!
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-- **Other Tools**:
+**Development Tools**:
 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
 
-
-<!------------------------------------------------------------------------------------------------------------------------------------------------->
-<br>
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5bXIwaWt5enZxYWpyazI1OGQ2NTB0d2c4bmk3eGdzbjYyczM4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8Zdh9VJe3piTQ5EPj/giphy.gif" width ="40"> Connect with Me </h2>
-
-<a href="https://www.linkedin.com/in/martin-zha28/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:martinzha28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="mailto:m249zhao@uwaterloo.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
