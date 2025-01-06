@@ -12,9 +12,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2> <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width ="60"> About Me </h2>
 
-I'm a 3B Computer Science Student studying at the University of Waterloo! 
-
-I've most recently worked at Marsh McLennan, where I extensively used the MERN stack and worked with new and exciting frameworks. I've also worked at WSIB as a full-stack developer and Genesys as a QA intern.
+I'm a Computer Science Student studying at the University of Waterloo! 
 
 I love exploring automation methods and understanding the end-to-end software development process. I hope to work with large code bases, and slowly uncover how components interact with eact other. 
 
